@@ -40,3 +40,5 @@ The official repositories for [Benjie Jiao](https://github.com/benjiao)'s benjia
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C24WFYS) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/benjiao?country.x=PH&locale.x=en_US)
