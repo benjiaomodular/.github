@@ -1,6 +1,6 @@
 # benjiamodular
 
-The official repositories for Benjie Jiao's benjiaomodular project.
+The official repositories for [Benjie Jiao](https://github.com/benjiao)'s benjiaomodular project.
 
 
 ## Tools
