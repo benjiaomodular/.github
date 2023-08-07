@@ -2,9 +2,11 @@
 
 The official repositories for Benjie Jiao's benjiaomodular project.
 
+
 ## Tools
-- **[EuroPanelMaker](https://github.com/benjiaomodular/EuroRailMaker)** - An OpenSCAD library for designing 3D-printed Eurorack panels.
-- **[EuroRailMaker](https://github.com/benjiaomodular/EuroRailMaker)** - An OpenSCAD library for designing 3D-printed Eurorack rails.
+1. **[EuroPanelMaker](https://github.com/benjiaomodular/EuroRailMaker)** - An OpenSCAD library for designing 3D-printed Eurorack panels.
+1. **[EuroRailMaker](https://github.com/benjiaomodular/EuroRailMaker)** - An OpenSCAD library for designing 3D-printed Eurorack rails.
+1. **[KiCadLibraries](https://github.com/benjiaomodular/KiCadLibraries)** - KiCAD footprints and symbols that I use for my PCB designs.
 
 ## PCBs
 1. **[MiniADSR](https://github.com/benjiaomodular/MiniADSR)** - A four-parameter envelope generator.
@@ -19,3 +21,9 @@ The official repositories for Benjie Jiao's benjiaomodular project.
 1. **[MiniVerb](https://github.com/benjiaomodular/MiniVerb)** - A reverb module based around the Daisy Seed platform.
 
 ## DIY Eurorack Modules
+1. **[]()**
+
+## Support me!
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C24WFYS) 
