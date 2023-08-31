@@ -4,7 +4,7 @@ The official repositories for [Benjie Jiao](https://github.com/benjiao)'s benjia
 
 
 ## Tools
-1. **[EuroPanelMaker](https://github.com/benjiaomodular/EuroRailMaker)** - An OpenSCAD library for designing 3D-printed Eurorack panels.
+1. **[EuroPanelMaker](https://github.com/benjiaomodular/EuroPanelMaker)** - An OpenSCAD library for designing 3D-printed Eurorack panels.
 1. **[EuroRailMaker](https://github.com/benjiaomodular/EuroRailMaker)** - An OpenSCAD library for designing 3D-printed Eurorack rails.
 1. **[KiCadLibraries](https://github.com/benjiaomodular/KiCadLibraries)** - KiCAD footprints and symbols that I use for my PCB designs.
 
